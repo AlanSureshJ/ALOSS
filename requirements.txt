@@ -1,0 +1,16 @@
+ultralytics==8.1.14
+opencv-python
+numpy
+matplotlib
+tqdm
+scikit-learn
+torch>=1.12
+torchvision
+Pillow
+filterpy
+lap
+scipy
+pyyaml
+onnx
+onnxruntime
+tensorflow-cpu

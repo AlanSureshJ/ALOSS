@@ -1,0 +1,16 @@
+# YOLOv8 training outputs
+runs/
+
+exp10-new/
+# Training visualizations
+pop.py
+
+# Logs and results
+results.csv
+args.yaml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
